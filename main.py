@@ -1,3 +1,4 @@
+# Code by Nicholas Donofrio
 import tkinter as tk
 from tkinter import ttk
 from ttkthemes import ThemedStyle
