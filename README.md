@@ -9,7 +9,8 @@ NS Lookup: Find the authoritative name server for the domain.
 ## Getting Started
 Ensure you have Python installed on your system.
 Install the required libraries by running:
-pip install tk ttkthemes dnspython
+
+'pip install tk ttkthemes dnspython'
 
 Run the script using:
 python dns_query_tool.py
