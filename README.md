@@ -30,6 +30,3 @@ dnspython: DNS toolkit for Python.
 
 ## Note
 This tool is designed for educational purposes and may have limitations in handling specific DNS scenarios.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
